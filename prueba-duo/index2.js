@@ -1,4 +1,10 @@
-let persona = {
-    nombre : "Maia",
+let persona = [ 
+    {
+    nombre : 'Maia',
     edad : 18,
-};
+    },
+    {
+    nombre: 'Pedro',
+    edad: 38
+    }
+];
